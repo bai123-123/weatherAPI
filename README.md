@@ -15,7 +15,7 @@ http://localhost:8080/api/v1/user/callWeather
 }
 
 
-http://localhost:8080/api/v1/user/callWeatherRe
+http://localhost:8080/api/v1/user/callWeatherRe (api with redis)
 
 {
     "cityIds" : [2150126, 2150106, 2150096]
